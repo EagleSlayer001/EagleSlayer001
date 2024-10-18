@@ -3,7 +3,6 @@
 
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/gist/Prince-Shivaram/106aa0f37f016eda7ec65de5acb90471/raw/760aff1fe331f8a445d4573aa88fd2ec16e72b83/My-work.gif">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eagleslayer001" alt="eagleslayer001" /></a> </p>
 
 - 🔭 I’m currently working on **my university projects**
 
